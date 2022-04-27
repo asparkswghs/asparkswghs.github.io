@@ -16,6 +16,8 @@ I've chosen this CPU because it's a good balance between price and performance. 
 The GPU (Graphics Processing Unit) is what makes graphical output, or what you see on your screen. It renders images and text and sends it out in a way your monitor can display.
 
 The GPU I've chosen is an iGPU or *Integrated GPU* which means it's built into the CPU I've chosen above, which cuts costs in [the current Silicon Shortage.](https://en.m.wikipedia.org/wiki/2020-present_global_chip_shortage).
+
+**NOTE:** If I have enough cash and prices and stock at Microcenter are decent at time of purchase for a [discrete graphics card](https://en.wikipedia.org/wiki/PCI_Express#External_GPUs), I might go with a GPU from AMD and opt for a [different CPU](https://pcpartpicker.com/product/yq2WGX/amd-ryzen-5-5500-36-ghz-6-core-processor-100-100000457box).
 ### Motherboard - [Gigabyte B550M DS3H AC](https://pcpartpicker.com/product/RHWzK8/gigabyte-b550m-ds3h-ac-micro-atx-am4-motherboard-b550m-ds3h-ac)
 The Motherboard is the PCB (printed circuit board) that all of the other components plug into. It allows everything to communicate with each other and provides the ports to plug in a keyboard, mouse, headphones, and any other peripherals. It also takes in power from the Power Supply and sends it to the CPU and RAM.
 
@@ -62,19 +64,19 @@ Regards,
 Austen Sparks
 
 ## Questions
-# Why build your own PC? Isn't it easier to just buy one from a store?
+### Why build your own PC? Isn't it easier to just buy one from a store?
 While it is *easier* to buy a PC from a store, there are much better reasons to build your own PC:
  - Custom-built PCs tend to be more upgradeable, and easier to swap newer parts into as computing needs change
  - While building a PC you get to learn more about how it functions
  - Parts available for custom-built PCs tend to be of higher quality (especially the Motherboard and Power Supply)
  - A custom-built PC is custom. It's tailored to my specific needs and use case.
 And, above all, I can look over at my PC and proudly say **"I built that."**
-# Why a desktop PC? Why not just get a good laptop that's more portable?
+### Why a desktop PC? Why not just get a good laptop that's more portable?
 Well, all of the "Heavy-duty" computing (and playing video games) that I have to do can be done at my desk at home. Laptops are also restricted by their size, this causes many issues:
  - they are (generally) much more expensive than desktop computers
  - they run hotter than desktop computers (shortening the components' lifespans)
- - laptops are extremely less upgradeable (except for the AMAZING [Framework laptop](https://frame.work/), but I'm going to use my current laptop until it gives up first)
-# What is Linux? and why do you prefer it over Microsoft Windows?
+ - laptops are extremely less upgradeable (except for the AMAZING [Framework laptop](https://frame.work/), but I'm going to use my current laptop until it gives up first, and it's not exempt from these first two issues)
+### What is Linux? and why do you prefer it over Microsoft Windows?
 Linux (/ˈlɪnʊks/ LIN-uuks) is a family of open-source Unix-like operating systems based on the Linux kernel, an operating system kernel first released on September 17, 1991, by Linus Torvalds. ([Wikipedia](https://en.wikipedia.org/wiki/Linux))
 
 Being open-source means I can view the underlying code, and the whole community contributes to it, rather than a select team in a corporation whose entire goal is to make a profit. It also provides for the four software freedoms:
