@@ -9,3 +9,5 @@ Contents:
 
 ## Small Gifts
 
+- [Pinephone Soft TPU Protective Case](https://pine64.com/product/pinephone-soft-tpu-protective-case/)
+    A Case for my phone
