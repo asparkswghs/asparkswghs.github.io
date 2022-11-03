@@ -40,6 +40,3 @@ Contents:
     - Cat bed
     - Scratching post
     - My Dad persuaded
-<!-- 
-- [A New Laptop from Framework](/pages/framework)
--->
