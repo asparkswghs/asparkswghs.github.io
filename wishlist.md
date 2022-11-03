@@ -15,6 +15,7 @@ Contents:
 
 ## Fun Stuff
 - The [Not-a-Cat Cat: the cat that isn't](https://www.vat19.com/item/not-a-cat-cat-the-cat-that-isnt)
+- A [Banana Man](https://www.amazon.com/Banana-Stuffed-Changeable-Decompression-Birthday/dp/B09FXCHCHT/)
 - Something fun from the [Berd Store](https://hahahaimyourstorenow.com/) (a youtuber who draws funny animations)
 - Some stuff from [LTTstore.com](https://lttstore.com)
     - [Cable ties](https://www.lttstore.com/products/cable-ties?variant=39647955550311) for organizing all my cables
