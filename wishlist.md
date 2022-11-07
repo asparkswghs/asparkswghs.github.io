@@ -20,6 +20,7 @@ Contents:
 - Some stuff from [LTTstore.com](https://lttstore.com)
     - [Cable ties](https://www.lttstore.com/products/cable-ties?variant=39647955550311) for organizing all my cables
     - [A Desk mat](https://www.lttstore.com/products/deskpad?variant=33074344362087) (900mm x 400mm)
+- [GoodTimesWithScar Discover Hoodie](https://goodtimeswithscar.store/discover-hoodie/?variant=82849359&kw=store)
 
 ## Books
 - [The Rust Programming Language, 2nd Edition](https://nostarch.com/rust-programming-language-2nd-edition) by Steve Klabnik and Carol Nichols et al.
