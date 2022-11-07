@@ -36,7 +36,7 @@ Contents:
 
 ## Large Gifts
 
-- A Cat, along with the following necessities:
+- A Cat, along with the following necessities: (My mom has an amazon list for cat-related items, reach out to her for it)
     - Cat food
     - Cat bed
     - Scratching post
