@@ -33,6 +33,7 @@ Contents:
 ## Useful Items
 - [Pinephone Soft TPU Protective Case](https://pine64.com/product/pinephone-soft-tpu-protective-case/)
     (A Case for my phone)
+- A new [Phone Charger from Anker](https://www.amazon.com/Anker-Powerline-Charging-Charger-Foldable/dp/B0BD828FML/)
 - [SSD Storage](https://pcpartpicker.com/product/h3tQzy/crucial-mx500-1tb-25-solid-state-drive-ct1000mx500ssd1)
 - More [Memory for my PC](https://pcpartpicker.com/product/Mnwkcf/patriot-viper-steel-8-gb-2-x-4-gb-ddr4-3200-cl16-memory-pvs48g320c6k) 
 
