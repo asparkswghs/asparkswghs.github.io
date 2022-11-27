@@ -1,5 +1,8 @@
 # Austen's Wishlist- 2022
 
+> **Before You Read What's Below:** I'm planning on going on my school's trip to Europe (England and France) in spring of 2024. This may seem like a long ways off, but I need your help now! Direct donation link may be coming soon, but don't count on it. 
+
+
 Below are some items that I've been wanting, in case you can't think of anything.
 
 You don't *have* to choose something directly from this list, you can use it for inspiration. If you do get something from this list however, make sure to **let my parents know before you buy so that there aren't any duplicates**.
@@ -14,12 +17,12 @@ Contents:
 
 
 ## Fun Stuff
-- The [Not-a-Cat Cat: the cat that isn't](https://www.vat19.com/item/not-a-cat-cat-the-cat-that-isnt)
-- A [Banana Man](https://www.amazon.com/Banana-Stuffed-Changeable-Decompression-Birthday/dp/B09FXCHCHT/)
-- Something fun from the [Berd Store](https://hahahaimyourstorenow.com/) (a youtuber who draws funny animations)
+<!--- - The [Not-a-Cat Cat: the cat that isn't](https://www.vat19.com/item/not-a-cat-cat-the-cat-that-isnt)
+- A [Banana Man](https://www.amazon.com/Banana-Stuffed-Changeable-Decompression-Birthday/dp/B09FXCHCHT/) --->
+- Something from the [Berd Store](https://hahahaimyourstorenow.com/) (a youtuber who draws funny animations)
 - Some stuff from [LTTstore.com](https://lttstore.com)
     - [Cable ties](https://www.lttstore.com/products/cable-ties?variant=39647955550311) for organizing all my cables
-    - [A Desk mat](https://www.lttstore.com/products/deskpad?variant=33074344362087) (900mm x 400mm)
+<!--    - [A Desk mat](https://www.lttstore.com/products/deskpad?variant=33074344362087) (900mm x 400mm) -->
 - [GoodTimesWithScar Discover Hoodie](https://goodtimeswithscar.store/discover-hoodie/?variant=82849359&kw=store)
 
 ## Books
@@ -31,9 +34,9 @@ Contents:
 - [Pinephone Soft TPU Protective Case](https://pine64.com/product/pinephone-soft-tpu-protective-case/)
     (A Case for my phone)
 - [SSD Storage](https://pcpartpicker.com/product/h3tQzy/crucial-mx500-1tb-25-solid-state-drive-ct1000mx500ssd1)
-- [Chest of drawers for my bedroom](https://www.ikea.com/us/en/p/malm-2-drawer-chest-black-brown-00103343/)
-- Some [wall decor from displate](/pages/displate)
+- More [Memory for my PC](https://pcpartpicker.com/product/Mnwkcf/patriot-viper-steel-8-gb-2-x-4-gb-ddr4-3200-cl16-memory-pvs48g320c6k) 
 
+<!--
 ## Large Gifts
 
 - A Cat, along with the following necessities: (My mom has an amazon list for cat-related items, reach out to her for it)
@@ -41,3 +44,4 @@ Contents:
     - Cat bed
     - Scratching post
     - My Dad persuaded
+-->
