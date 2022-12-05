@@ -7,6 +7,9 @@ Below are some items that I've been wanting, in case you can't think of anything
 
 You don't *have* to choose something directly from this list, you can use it for inspiration. If you do get something from this list however, make sure to **let my parents know before you buy so that there aren't any duplicates**.
 
+This page is mainly just for inspiration on the kinds of things I like, as I've only included super high quality things that I really like.
+
+
 If you don't see anything you like, **gift cards are cool**-- especially from [this list](/pages/giftcards)
 
 Contents:
