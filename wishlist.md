@@ -10,21 +10,20 @@ You don't *have* to choose something directly from this list, you can use it for
 This page is mainly just for inspiration on the kinds of things I like, as I've only included super high quality things that I really like.
 
 
-If you don't see anything you like, **gift cards are cool**-- especially from [this list](/pages/giftcards)
+If you don't see anything you like, **gift cards are cool-- especially from [this list](/pages/giftcards)**
 
 Contents:
 - [Fun Stuff](#fun-stuff)
 - [Useful Items](#useful-items)
-- [Books](#books)
-- [Large gifts](#large-gifts)
-
+- [Books](#books) 
+<!---- [Large gifts](#large-gifts)
+--->
 
 ## Fun Stuff
 <!--- - The [Not-a-Cat Cat: the cat that isn't](https://www.vat19.com/item/not-a-cat-cat-the-cat-that-isnt)
 - A [Banana Man](https://www.amazon.com/Banana-Stuffed-Changeable-Decompression-Birthday/dp/B09FXCHCHT/) --->
 - Something from the [Berd Store](https://hahahaimyourstorenow.com/) (a youtuber who draws funny animations)
-- Some stuff from [LTTstore.com](https://lttstore.com)
-    - [Cable ties](https://www.lttstore.com/products/cable-ties?variant=39647955550311) for organizing all my cables
+- Some stuff (esp. hoodies and t-shirts) from [LTTstore.com](https://lttstore.com) (Medium/Large)
 <!--    - [A Desk mat](https://www.lttstore.com/products/deskpad?variant=33074344362087) (900mm x 400mm) -->
 - [GoodTimesWithScar Discover Hoodie](https://goodtimeswithscar.store/discover-hoodie/?variant=82849359&kw=store)
 
@@ -41,6 +40,8 @@ Contents:
 - A new [Phone Charger from Anker](https://www.amazon.com/Anker-Powerline-Charging-Charger-Foldable/dp/B0BD828FML/)
 - [SSD Storage](https://pcpartpicker.com/product/h3tQzy/crucial-mx500-1tb-25-solid-state-drive-ct1000mx500ssd1)
 - More [Memory for my PC](https://pcpartpicker.com/product/Mnwkcf/patriot-viper-steel-8-gb-2-x-4-gb-ddr4-3200-cl16-memory-pvs48g320c6k) 
+- A [Wrist Rest](https://www.amazon.com/Redragon-P036-Computer-Ergonomic-Anti-Slip/dp/B095WCCBM3/) for my keyboard
+- A [New Mouse](https://www.amazon.com/Razer-Basilisk-HyperSpeed-Wireless-Gaming/dp/B07YPBQSCK/) (computer mouse [ofc](https://www.urbandictionary.com/define.php?term=ofc))
 
 <!--
 ## Large Gifts
