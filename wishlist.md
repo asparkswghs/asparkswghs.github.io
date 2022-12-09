@@ -43,7 +43,7 @@ Contents:
 - A new [Phone Charger from Anker](https://www.amazon.com/Anker-Powerline-Charging-Charger-Foldable/dp/B0BD828FML/)
 - [SSD Storage](https://pcpartpicker.com/product/h3tQzy/crucial-mx500-1tb-25-solid-state-drive-ct1000mx500ssd1)
 - More [Memory for my PC](https://pcpartpicker.com/product/Mnwkcf/patriot-viper-steel-8-gb-2-x-4-gb-ddr4-3200-cl16-memory-pvs48g320c6k) 
-- A [Wrist Rest](https://www.amazon.com/Redragon-P036-Computer-Ergonomic-Anti-Slip/dp/B095WCCBM3/) for my keyboard
+- A [Wrist Rest](https://www.amazon.com/Redragon-P036-Computer-Ergonomic-Anti-Slip/dp/B095WCCBM3/) for my keyboard (the 80% Tenkeyless one)
 - A [New Mouse](https://www.amazon.com/Razer-Basilisk-HyperSpeed-Wireless-Gaming/dp/B07YPBQSCK/) (computer mouse [ofc](https://www.urbandictionary.com/define.php?term=ofc))
 
 <!--
