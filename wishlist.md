@@ -45,7 +45,8 @@ Contents:
 - More [Memory for my PC](https://pcpartpicker.com/product/Mnwkcf/patriot-viper-steel-8-gb-2-x-4-gb-ddr4-3200-cl16-memory-pvs48g320c6k) 
 - A [Wrist Rest](https://www.amazon.com/Redragon-P036-Computer-Ergonomic-Anti-Slip/dp/B095WCCBM3/) for my keyboard (the 80% Tenkeyless one)
 - A [New Mouse](https://www.amazon.com/Razer-Basilisk-HyperSpeed-Wireless-Gaming/dp/B07YPBQSCK/) (computer mouse [ofc](https://www.urbandictionary.com/define.php?term=ofc))
-
+- A [PineTime Smartwatch](https://pine64.com/product/pinetime-smartwatch-sealed/) (for development/bug testing for the platform)
+- The [PineBuds wireless earbuds](https://pine64.com/product/pinebuds-pro-open-firmware-capable-anc-wireless-earbuds/)
 <!--
 ## Large Gifts
 - A Cat, along with the following necessities: (My mom has an amazon list for cat-related items, reach out to her for it)
