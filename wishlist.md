@@ -2,7 +2,7 @@
 
 --------
 
- **Before You Read What's Below:** I'm planning on going on my school's trip to Europe (England and France) in spring of 2024. This may seem like a long ways off, but I need your help now! Direct donation link may be coming soon, but don't count on it. 
+##  **Before You Read What's Below:** I'm planning on going on my school's trip to Europe (England and France) in spring of 2024. This may seem like a long ways off, but I need your help now! Direct donation link may be coming soon, but don't count on it. 
 
 --------
 
@@ -19,15 +19,10 @@ Contents:
 - [Fun Stuff](#fun-stuff)
 - [Useful Items](#useful-items)
 - [Books](#books) 
-<!---- [Large gifts](#large-gifts)
---->
 
 ## Fun Stuff
-<!--- - The [Not-a-Cat Cat: the cat that isn't](https://www.vat19.com/item/not-a-cat-cat-the-cat-that-isnt)
-- A [Banana Man](https://www.amazon.com/Banana-Stuffed-Changeable-Decompression-Birthday/dp/B09FXCHCHT/) --->
 - Something from the [Berd Store](https://hahahaimyourstorenow.com/) (a youtuber who draws funny animations)
-- Some stuff (esp. hoodies and t-shirts) from [LTTstore.com](https://lttstore.com) (Medium/Large)
-<!--    - [A Desk mat](https://www.lttstore.com/products/deskpad?variant=33074344362087) (900mm x 400mm) -->
+- Some stuff (esp. hoodies and t-shirts) from [LTTstore.com](https://lttstore.com) (Large Hoodies, Medium T-Shirts)
 - [GoodTimesWithScar Discover Hoodie](https://goodtimeswithscar.store/discover-hoodie/?variant=82849359&kw=store)
 
 ## Books
@@ -48,12 +43,4 @@ Contents:
 - A [PineTime Smartwatch](https://pine64.com/product/pinetime-smartwatch-sealed/) (for development/bug testing for the platform)
 - The [PineBuds wireless earbuds](https://pine64.com/product/pinebuds-pro-open-firmware-capable-anc-wireless-earbuds/)
 - Any [Single-Board Computer by Pine64](https://pine64.com/product-category/single-board-computers/)
-
-<!--
-## Large Gifts
-- A Cat, along with the following necessities: (My mom has an amazon list for cat-related items, reach out to her for it)
-    - Cat food
-    - Cat bed
-    - Scratching post
-    - My Dad persuaded
--->
+- A [Wacom Drawing Tablet](https://estore.wacom.com/en-US/one-by-wacom-small-ctl472k1a.html)
