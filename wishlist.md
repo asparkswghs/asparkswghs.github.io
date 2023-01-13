@@ -26,7 +26,6 @@ Contents:
 - [GoodTimesWithScar Discover Hoodie](https://goodtimeswithscar.store/discover-hoodie/?variant=82849359&kw=store)
 
 ## Books
-- [The Rust Programming Language, 2nd Edition](https://nostarch.com/rust-programming-language-2nd-edition) by Steve Klabnik and Carol Nichols et al.
 - [Artist's Guide to GIMP, 2nd Edition](https://nostarch.com/gimp2) by Michael J. Hammel
 
 
