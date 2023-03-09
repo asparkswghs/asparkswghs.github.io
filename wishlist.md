@@ -22,8 +22,14 @@ Contents:
 
 ## Fun Stuff
 - Something from the [Berd Store](https://hahahaimyourstorenow.com/) (a youtuber who draws funny animations)
-- Some stuff (esp. hoodies and t-shirts) from [LTTstore.com](https://lttstore.com) (Large Hoodies, Medium T-Shirts)
+- Some stuff (esp. hoodies and t-shirts) from [LTTstore.com](https://lttstore.com) (Large Hoodies, Medium T-Shirts) [or a desk mat](https://www.lttstore.com/products/deskpad?variant=33074344362087) (900mm x 400mm)
 - [GoodTimesWithScar Discover Hoodie](https://goodtimeswithscar.store/discover-hoodie/?variant=82849359&kw=store)
+- A [Wacom Drawing Tablet](https://estore.wacom.com/en-US/one-by-wacom-small-ctl472k1a.html)
+#### Fun Stuff from Pine64
+- A [PineTime Smartwatch](https://pine64.com/product/pinetime-smartwatch-sealed/) (for development/bug testing for the platform)
+- The [PineBuds wireless earbuds](https://pine64.com/product/pinebuds-pro-open-firmware-capable-anc-wireless-earbuds/)
+- Any [Single-Board Computer by Pine64](https://pine64.com/product-category/single-board-computers/)
+- The Pine64 Pinetab 2 (when it comes out, its not out yet)
 
 ## Books
 - [Artist's Guide to GIMP, 2nd Edition](https://nostarch.com/gimp2) by Michael J. Hammel
@@ -38,7 +44,4 @@ Contents:
 - More [Memory for my PC](https://pcpartpicker.com/product/Mnwkcf/patriot-viper-steel-8-gb-2-x-4-gb-ddr4-3200-cl16-memory-pvs48g320c6k) 
 - A [Wrist Rest](https://www.amazon.com/Redragon-P036-Computer-Ergonomic-Anti-Slip/dp/B095WCCBM3/) for my keyboard (the 80% Tenkeyless one)
 - A [New Mouse](https://www.amazon.com/Razer-Basilisk-HyperSpeed-Wireless-Gaming/dp/B07YPBQSCK/) (computer mouse [ofc](https://www.urbandictionary.com/define.php?term=ofc))
-- A [PineTime Smartwatch](https://pine64.com/product/pinetime-smartwatch-sealed/) (for development/bug testing for the platform)
-- The [PineBuds wireless earbuds](https://pine64.com/product/pinebuds-pro-open-firmware-capable-anc-wireless-earbuds/)
-- Any [Single-Board Computer by Pine64](https://pine64.com/product-category/single-board-computers/)
-- A [Wacom Drawing Tablet](https://estore.wacom.com/en-US/one-by-wacom-small-ctl472k1a.html)
+
