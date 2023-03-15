@@ -1,7 +1,9 @@
-# For my birthday this year, all I want is to purchase and build my own PC.
+# Update: i have a pc now! tysm <3
+
+### For my birthday this year, all I want is to purchase and build my own PC.
 I've been interested in PCs for a while now, watching [Linus Tech Tips](https://www.youtube.com/channel/UCXuqSBlHAE6Xw-yeJA0Tunw) and learning how to build a custom PC to the best of my ability, and how to pick the right parts, ([especially from this LTT video](https://www.youtube.com/watch?v=BL4DCEp7blY)). 
 
-Note: **please do not purchase these parts for me**, I would like to do the purchasing and most of the parts are too expensive for any one person to gift in full. You can contact my parents about how to donate, or mail a card to **312 Atalanta Ave, Webster Groves MO, 63119**.
+Note: **please do not purchase these parts for me**, I would like to do the purchasing and most of the parts are too expensive for any one person to gift in full. You can contact my parents about how to donate, or mail a card.
 ## Parts
 There are several components necessary for building a PC, and the complete list is [here](https://pcpartpicker.com/list/2X9yKp) on PC Part Picker.
 Here, I've broken down what each part does in a short, simple description for those of you who'd like to know and maybe aren't as educated as I am in the PC space, and then a short paragraph about why I've chosen that product in particular.
