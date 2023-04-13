@@ -48,14 +48,7 @@ Contents:
 - A [Wrist Rest](https://www.amazon.com/Redragon-P036-Computer-Ergonomic-Anti-Slip/dp/B095WCCBM3/) for my keyboard (the 80% Tenkeyless one)
 - A [New Mouse](https://www.amazon.com/Razer-Basilisk-HyperSpeed-Wireless-Gaming/dp/B07YPBQSCK/) (computer mouse [ofc](https://www.urbandictionary.com/define.php?term=ofc))
 - A [monitor stand/arm](https://www.amazon.com/VIVO-Monitor-Adjustable-Articulating-STAND-V001/dp/B00B21TLQU/)
-<!---
-- A [New headphones cable](https://www.amazon.com/VIOY-Auxiliary-Compatible-Headphone-Smartphone/dp/B0B9WGDZTW/)
-- A better mic setup:
-   * Microphone, either one:
-      * [hyperx solocast](https://www.amazon.com/HyperX-SoloCast-Microphone-Tap-Mute/dp/B08KFL3SFV/ref=sr_1_3?tag=thevideoner)
-      * [razer seiren mini](https://www.amazon.com/Razer-Seiren-Mini-Streaming-Microphone/dp/B08HH3FTYT/ref=sr_1_3?tag=thevideoner)
-   * [mic boom arm](https://www.amazon.com/InnoGear-Microphone-Suspension-Adjustable-Snowball/dp/B01L3LL95O/ref=sr_1_2_sspa?tag=thevideoner)
---->
+
 #### Laptop Repairs
 - [SSD Storage](https://pcpartpicker.com/product/h3tQzy/crucial-mx500-1tb-25-solid-state-drive-ct1000mx500ssd1)
 - [A Part to Fix my Laptop](https://www.ifixit.com/products/macbook-pro-13-unibody-mid-2012-hard-drive-cable)
