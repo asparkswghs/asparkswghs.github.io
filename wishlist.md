@@ -41,6 +41,7 @@ Contents:
 ## Useful Items
 - [Pinephone Soft TPU Protective Case](https://pine64.com/product/pinephone-soft-tpu-protective-case/)
     (A Case for my phone)
+- [New Back Plate for my Phone](https://pine64.com/product/pinephone-pro-back-cover/) (my current one is cracked)
 
 #### PC Setup Improvements
 - [Elgato Stream Deck Mini](https://www.amazon.com/Elgato-Stream-Deck-Mini-customizable/dp/B07DYRS1WH/)
