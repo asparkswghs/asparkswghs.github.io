@@ -2,7 +2,7 @@
 
 --------
 
-##  **Before You Read What's Below:** I'm planning on going on my school's trip to Europe (England and France) in spring of 2024. This may seem like a long ways off, but I need your help now! Direct donation link may be coming soon, but don't count on it. 
+##  **Before You Read What's Below:** I'm planning on going on my school's trip to Europe (England and France) in spring of 2024. This may seem like a long ways off, but I need your help now! [Donate Here](https://my.passports.com/students/pay?s=20241172&d=2007-05-18)
 
 --------
 
