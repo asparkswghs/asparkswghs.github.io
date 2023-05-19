@@ -7,7 +7,7 @@ A some essays I've written for school.
 
 # List of Essays
 
-{%- assign doclist = site.pages | sort: 'url'  -%}
+{%- assign doclist = site.static_files | sort: 'url'  -%}
         {%- for doc in doclist -%}
             {%- unless doc.name contains '[hide]' or doc.name contains 'README' -%}
             {%- if doc.path contains '/essays/' -%}
