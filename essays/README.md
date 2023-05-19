@@ -8,14 +8,13 @@ A some essays I've written for school.
 # List of Essays
 
 
-{%- assign doclist = site.static_files | sort: 'url'  -%}
+{% assign doclist = site.static_files | sort: 'url'  -%}
 {%- for doc in doclist -%}
    {%- unless doc.name contains '[hide]' or doc.name contains 'README' -%}
-      {%- if doc.path contains '/essays/' -%}
+      {%- if doc.path contains '/essays/' %}
             
-   * [{{ doc.name }}({{ doc.path }})
-   
-      {%- endif -%}
+   * [{{ doc.name }}]({{ doc.path }})
+      {% endif -%}
    {%- endunless -%}
 {%- endfor -%}
 
