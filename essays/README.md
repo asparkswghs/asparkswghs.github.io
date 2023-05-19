@@ -9,15 +9,15 @@ A some essays I've written for school.
 
 
 {%- assign doclist = site.static_files | sort: 'url'  -%}
-        {%- for doc in doclist -%}
-            {%- unless doc.name contains '[hide]' or doc.name contains 'README' -%}
-            {%- if doc.path contains '/essays/' -%}
+{%- for doc in doclist -%}
+   {%- unless doc.name contains '[hide]' or doc.name contains 'README' -%}
+      {%- if doc.path contains '/essays/' -%}
             
-   * [{{ doc.name }}({{ site.baseurl }}{{ doc.url }})
+   * [{{ doc.name }}({{ doc.path }})
    
-            {%- endif -%}
-            {%- endunless -%}
-        {%- endfor -%}
+      {%- endif -%}
+   {%- endunless -%}
+{%- endfor -%}
 
 
 
