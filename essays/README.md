@@ -7,14 +7,14 @@ A some essays I've written for school.
 
 # List of Essays
 
-{% assign doclist = site.pages | sort: 'url'  %}
-    <ul>
-       {% for doc in doclist %}
-            {% unless doc.name contains '[hide]' or doc.name contains 'README' %}
-                <li><a href="{{ site.baseurl }}{{ doc.url }}">{{ doc.name }}</a></li>
-            {% endunless %}
-        {% endfor %}
-    </ul>
+{%- assign doclist = site.pages | sort: 'url'  -%}
+        {%- for doc in doclist -%}
+            {%- unless doc.name contains '[hide]' or doc.name contains 'README' -%}
+            {%- if doc.path contains '/essays/' -%}
+   * [{{ doc.name }}({{ site.baseurl }}{{ doc.url }})
+            {%- endif -%}
+            {%- endunless -%}
+        {%- endfor -%}
 
 
 
