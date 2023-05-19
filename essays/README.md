@@ -10,8 +10,8 @@ A bunch of essays I've written for school.
 {% assign doclist = site.pages | sort: 'url'  %}
     <ul>
        {% for doc in doclist %}
-            {% if doc.name contains '.md' or doc.name contains '.html' %}
-                <li><a href="{{ site.baseurl }}{{ doc.url }}">{{ doc.url }}</a></li>
+            {% unless doc.name contains '[hide]' or doc.name contains 'README' %}
+                <li><a href="{{ site.baseurl }}{{ doc.url }}">{{ doc.name }}</a></li>
             {% endif %}
         {% endfor %}
     </ul>
