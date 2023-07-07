@@ -21,7 +21,6 @@ Contents:
 - [Useful Items](#useful-items)
 - [Books](#books) 
 - [PC Setup](#pc-setup-improvements)
-- [Laptop Repairs](#laptop-repairs)
 
 ## Fun Stuff
 - Something from the [Berd Store](https://hahahaimyourstorenow.com/) (a youtuber who draws funny animations)
@@ -42,6 +41,7 @@ Contents:
 - [Pinephone Soft TPU Protective Case](https://pine64.com/product/pinephone-soft-tpu-protective-case/)
     (A Case for my phone)
 - [New Back Plate for my Phone](https://pine64.com/product/pinephone-pro-back-cover/) (my current one is cracked)
+- [Bluetooth and AUX support for my future car](https://www.gtacarkits.com/product/mazda-tribute-2002-2006-iphone-aux-kit/) (Choose the *"Pure Bluetooth with AUX"* option)
 
 #### PC Setup Improvements
 - [Elgato Stream Deck Mini](https://www.amazon.com/Elgato-Stream-Deck-Mini-customizable/dp/B07DYRS1WH/)
@@ -50,6 +50,3 @@ Contents:
 - A [New Mouse](https://www.amazon.com/Razer-Basilisk-HyperSpeed-Wireless-Gaming/dp/B07YPBQSCK/) (computer mouse [ofc](https://www.urbandictionary.com/define.php?term=ofc))
 - A [monitor stand/arm](https://www.amazon.com/VIVO-Monitor-Adjustable-Articulating-STAND-V001/dp/B00B21TLQU/)
 
-#### Laptop Repairs
-- [SSD Storage](https://pcpartpicker.com/product/h3tQzy/crucial-mx500-1tb-25-solid-state-drive-ct1000mx500ssd1)
-- [A Part to Fix my Laptop](https://www.ifixit.com/products/macbook-pro-13-unibody-mid-2012-hard-drive-cable)
