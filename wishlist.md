@@ -2,36 +2,33 @@
 
 --------
 
-##  **Before You Read What's Below:** I'm planning on going on my school's trip to Europe (England and France) in spring of 2024. This may seem like a long ways off, but I need your help now! [Donate Here](https://my.passports.com/students/pay?s=20241172&d=2007-05-18)
+##  **Before You Read What's Below:** I plan to go on my school trip to Europe (England and France) in the spring of 2024. This may seem far off, but I need your help now! [Donate Here](https://my.passports.com/students/pay?s=20241172&d=2007-05-18)
 
 --------
 
 Below are some items that I've been wanting, in case you can't think of anything.
 
-You don't *have* to choose something directly from this list, you can use it for inspiration. If you do get something from this list however, make sure to **let my parents know before you buy so that there aren't any duplicates**.
-
-This page is mainly just for inspiration on the kinds of things I like, as I've only included super high quality things that I really like. That being said, not everything on this page makes a good gift. This is more just stuff I want.
-
+This page is mostly a personal list of things I'm saving up for. However, it *can* be used as inspiration for things to get me.
 
 If you don't see anything you like, **gift cards are cool-- especially from [this list](/pages/giftcards)**
 
 Contents:
 - [Fun Stuff](#fun-stuff)
     * [from Pine64](#fun-stuff-from-pine64)
-- [Useful Items](#useful-items)
 - [Books](#books) 
-- [PC Setup](#pc-setup-improvements)
+- [Useful Items](#useful-items)
+    * [PC Setup](#pc-setup-improvements)
 
 ## Fun Stuff
 - Something from the [Berd Store](https://hahahaimyourstorenow.com/) (a youtuber who draws funny animations)
 - Some stuff (esp. hoodies and t-shirts) from [LTTstore.com](https://lttstore.com) (Large Hoodies, Medium T-Shirts) [or a desk mat](https://www.lttstore.com/products/deskpad?variant=33074344362087) (900mm x 400mm)
 - [GoodTimesWithScar Discover Hoodie](https://goodtimeswithscar.store/discover-hoodie/?variant=82849359&kw=store)
 - A [Wacom Drawing Tablet](https://estore.wacom.com/en-US/one-by-wacom-small-ctl472k1a.html)
-#### Fun Stuff from Pine64
+##### Fun Stuff from Pine64
 - A [PineTime Smartwatch](https://pine64.com/product/pinetime-smartwatch-sealed/) (for development/bug testing for the platform)
 - The [PineBuds wireless earbuds](https://pine64.com/product/pinebuds-pro-open-firmware-capable-anc-wireless-earbuds/)
 - Any [Single-Board Computer by Pine64](https://pine64.com/product-category/single-board-computers/)
-- The Pine64 Pinetab 2 (when it comes out, its not out yet)
+- The Pine64 Pinetab 2 (when it comes out, it's not out yet)
 
 ## Books
 - [Artist's Guide to GIMP, 2nd Edition](https://nostarch.com/gimp2) by Michael J. Hammel
@@ -41,7 +38,11 @@ Contents:
 - [Pinephone Soft TPU Protective Case](https://pine64.com/product/pinephone-soft-tpu-protective-case/)
     (A Case for my phone)
 - [New Back Plate for my Phone](https://pine64.com/product/pinephone-pro-back-cover/) (my current one is cracked)
-- [Bluetooth and AUX support for my future car](https://www.gtacarkits.com/product/mazda-tribute-2002-2006-iphone-aux-kit/) (Choose the *"Pure Bluetooth with AUX"* option)
+- A way to use Bluetooth in my 2000 Mazda Protegé. Either:
+   - [From GTA Car Kits (probably the most likely to work well)](https://www.gtacarkits.com/product/mazda-tribute-2002-2006-iphone-aux-kit/) (Choose the *"Pure Bluetooth with AUX"* option) __or__
+   - [From Amazon (likely be total crap or not be compatible with my car)](https://www.amazon.com/Digital-Compatible-Bluetooth-Function-charging/dp/B014QZHR28)
+   - **AND** [Radio Removal Key](https://www.amazon.com/Automotive-Stainless-Disassembly-Frequency-Converter/dp/B092ZTS532/)
+
 
 #### PC Setup Improvements
 - [Elgato Stream Deck Mini](https://www.amazon.com/Elgato-Stream-Deck-Mini-customizable/dp/B07DYRS1WH/)
