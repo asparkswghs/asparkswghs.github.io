@@ -26,6 +26,8 @@ Contents:
 - [GoodTimesWithScar Discover Hoodie](https://goodtimeswithscar.store/discover-hoodie/?variant=82849359&kw=store)
 - A [Wacom Drawing Tablet](https://estore.wacom.com/en-US/one-by-wacom-small-ctl472k1a.html)
 ##### Fun Stuff from Pine64
+NOTE: Pine64's stuff can take weeks to ship, as they're a small(er) company. Theirs stuff is AMAZING though!
+
 - A [PineTime Smartwatch](https://pine64.com/product/pinetime-smartwatch-sealed/) (for development/bug testing for the platform)
 - The [PineBuds wireless earbuds](https://pine64.com/product/pinebuds-pro-open-firmware-capable-anc-wireless-earbuds/)
 - Any [Single-Board Computer by Pine64](https://pine64.com/product-category/single-board-computers/)
