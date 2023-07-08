@@ -20,6 +20,7 @@ Contents:
     * [PC Setup](#pc-setup-improvements)
 
 ## Fun Stuff
+- [Stickers](https://www.amazon.com/Vankie-Programming-Developers-Programmers-Developper/dp/B0995DTF87/) for my laptop
 - Something from the [Berd Store](https://hahahaimyourstorenow.com/) (a youtuber who draws funny animations)
 - Some stuff (esp. hoodies and t-shirts) from [LTTstore.com](https://lttstore.com) (Large Hoodies, Medium T-Shirts) [or a desk mat](https://www.lttstore.com/products/deskpad?variant=33074344362087) (900mm x 400mm)
 - [GoodTimesWithScar Discover Hoodie](https://goodtimeswithscar.store/discover-hoodie/?variant=82849359&kw=store)
