@@ -38,9 +38,6 @@ NOTE: Pine64's stuff can take weeks to ship, as they're a small(er) company. The
 
 
 ## Useful Items
-- [Pinephone Soft TPU Protective Case](https://pine64.com/product/pinephone-soft-tpu-protective-case/)
-    (A Case for my phone)
-- [New Back Plate for my Phone](https://pine64.com/product/pinephone-pro-back-cover/) (my current one is cracked)
 - A way to use Bluetooth in my 2000 Mazda Protegé. Either:
    - [From GTA Car Kits (probably the most likely to work well)](https://www.gtacarkits.com/product/mazda-tribute-2002-2006-iphone-aux-kit/) (Choose the *"Pure Bluetooth with AUX"* option) __or__
    - [From Amazon (likely be total crap or not be compatible with my car)](https://www.amazon.com/Digital-Compatible-Bluetooth-Function-charging/dp/B014QZHR28)
