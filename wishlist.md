@@ -42,7 +42,7 @@ NOTE: Pine64's stuff can take weeks to ship, as they're a small(er) company. The
    - [From GTA Car Kits (probably the most likely to work well)](https://www.gtacarkits.com/product/mazda-tribute-2002-2006-iphone-aux-kit/) (Choose the *"Pure Bluetooth with AUX"* option) __or__
    - [From Amazon (likely be total crap or not be compatible with my car)](https://www.amazon.com/Digital-Compatible-Bluetooth-Function-charging/dp/B014QZHR28)
    - **AND** [Radio Removal Key](https://www.amazon.com/Automotive-Stainless-Disassembly-Frequency-Converter/dp/B092ZTS532/)
-- Photo Printer. Either [Epson EcoTank ET-2800](https://www.amazon.com/gp/product/B096N8CNBZ?tag=rtings-pt-r-amazon-20&ie=UTF8) (Preferred) **or** [Canon Pixma MG3620](https://www.amazon.com/gp/product/B010A7TZ76?tag=rtings-pt-r-amazon-20&ie=UTF8) (Cheap)
+- Photo Printer. Either [Epson EcoTank ET-2800](https://www.amazon.com/gp/product/B096N8CNBZ?tag=rtings-pt-r-amazon-20&ie=UTF8) (Preferred) **or** [Canon Pixma MG3620](https://www.amazon.com/gp/product/B010A7TZ76?tag=rtings-pt-r-amazon-20&ie=UTF8) (Cheap) *(And [Photo Paper](https://www.amazon.com/dp/B0000721Z3?tag=expertphotog-20&th=1))*
 
 
 #### PC Setup Improvements
