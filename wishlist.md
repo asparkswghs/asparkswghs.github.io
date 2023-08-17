@@ -24,7 +24,7 @@ Contents:
 - Something from the [Berd Store](https://hahahaimyourstorenow.com/) (a youtuber who draws funny animations)
 - Some stuff (esp. hoodies and t-shirts) from [LTTstore.com](https://lttstore.com) (Large Hoodies, Medium T-Shirts) [or a desk mat](https://www.lttstore.com/products/deskpad?variant=33074344362087) (900mm x 400mm)
 - [GoodTimesWithScar Discover Hoodie](https://goodtimeswithscar.store/discover-hoodie/?variant=82849359&kw=store)
-- A [Wacom Drawing Tablet](https://estore.wacom.com/en-US/one-by-wacom-small-ctl472k1a.html) *(Also on [Amazon](https://www.amazon.com/Wacom-Graphic-Drawing-Tablet-Beginners/dp/B07S1RR3FR/))*
+
 ##### Fun Stuff from Pine64
 NOTE: Pine64's stuff can take weeks to ship, as they're a small(er) company. Theirs stuff is AMAZING though!
 
