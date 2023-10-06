@@ -28,7 +28,6 @@ Contents:
 ##### Fun Stuff from Pine64
 NOTE: Pine64's stuff can take weeks to ship, as they're a small(er) company. Theirs stuff is AMAZING though!
 
-- A [PineTime Smartwatch](https://pine64.com/product/pinetime-smartwatch-sealed/) (for development/bug testing for the platform)
 - The [PineBuds wireless earbuds](https://pine64.com/product/pinebuds-pro-open-firmware-capable-anc-wireless-earbuds/)
 - Any [Single-Board Computer by Pine64](https://pine64.com/product-category/single-board-computers/)
 - The Pine64 Pinetab 2 (when it comes out, it's not out yet)
